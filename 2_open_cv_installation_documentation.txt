@@ -1,0 +1,29 @@
+1. Install MacPort 
+    Download MacPort source code and install it.
+    Reference:
+    http://opencv.willowgarage.com/wiki/Mac_OS_X_OpenCV_Port
+    
+    sudo port selfupdate
+
+2. Make sure Numpy is Installed 
+    Reference:
+    http://stackoverflow.com/questions/8410443/how-to-install-python-2-7-bindings-for-opencv-using-macports
+
+3. Check if python27 is selcted
+
+    port select python
+    
+    if not:
+    sudo port select --set python <the python version>
+    Reference:
+    http://stackoverflow.com/questions/6612009/macports-port-select-commands
+
+
+3. Type the Following Command:
+  
+    sudo port install opencv +python27
+
+This should include OpenCV and Python Wrapper.
+import cv should work!
+
+    

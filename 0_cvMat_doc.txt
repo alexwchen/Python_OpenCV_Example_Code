@@ -1,0 +1,10 @@
+http://opencv.willowgarage.com/documentation/python/cookbook.html
+
+>>> import cv
+>>> mat = cv.CreateMat(5, 5, cv.CV_32FC1)
+>>> cv.Set(mat, 1.0)
+>>> mat[3,1] += 0.375
+>>> print mat[3,1]
+1.375
+>>> print [mat[3,i] for i in range(5)]
+[1.0, 1.375, 1.0, 1.0, 1.0]
