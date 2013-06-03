@@ -41,7 +41,9 @@ Table Of Content
 
 16 - erosion.py
 
-17_Simple_Transparency
+17 - Simple_Transparency
+
+18 - extract_hand_gesture_from_video
 
 
 
