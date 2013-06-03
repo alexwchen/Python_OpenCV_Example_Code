@@ -25,6 +25,4 @@ Table Of Content
 
 8 - goodfeatures.py
 
-9 - record_frames_to_video.py
-
-10 - capture_video_frame.py
+10 - capture_video_from_file
