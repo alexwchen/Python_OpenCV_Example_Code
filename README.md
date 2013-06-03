@@ -25,4 +25,18 @@ Table Of Content
 
 8 - goodfeatures.py
 
-10 - capture_video_from_file
+9 - contour.py 
+
+10 - capture_video_from_file ( Capture Webcam feed store in file )
+
+13 - Image_Resize.py
+
+14 - Template_Matching.py
+
+15 - run_kinect_IR_tut.py ( show how to run kinect ir in Python )
+
+17_Simple_Transparency
+
+
+
+
