@@ -14,3 +14,17 @@ Table Of Content
 2 - open_cv_installation_documentation.txt
 
 3 - load_save_picture_tut.py
+
+4 - run_kinect_tut.py
+
+5 - run_camera_as_video_tut.py ( Open Webcam and Display Frame )
+
+6 - sliding_window_tut.py ( Quick code for sliding window )
+
+7 - load_as_ndarray.py
+
+8 - goodfeatures.py
+
+9 - record_frames_to_video.py
+
+10 - capture_video_frame.py
