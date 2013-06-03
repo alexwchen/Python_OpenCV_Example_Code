@@ -3,7 +3,7 @@ import cv
 import cv2
 
 # Load Image
-im = cv2.imread('1017.png')
+im = cv2.imread('picture.png')
 imgray = cv2.cvtColor(im,cv2.COLOR_BGR2GRAY)
 print type(im)
 # Process Contour
