@@ -39,6 +39,8 @@ Table Of Content
 
 15 - run_kinect_IR_tut.py ( show how to run kinect ir in Python )
 
+16 - erosion.py
+
 17_Simple_Transparency
 
 
